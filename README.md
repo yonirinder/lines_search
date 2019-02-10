@@ -8,3 +8,6 @@ Options:
 3. -c highlight matching text
 4. -u print ^ under matched text
 5. -m machine readable format
+
+
+Attached text file for test
